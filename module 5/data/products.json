@@ -1,0 +1,30 @@
+[
+  {
+    "id": "0.16668031925680515",
+    "title": "The Book",
+    "imageUrl": "https://media.istockphoto.com/photos/collection-of-old-books-in-library-picture-id1306307586?b=1&k=20&m=1306307586&s=170667a&w=0&h=tqK1eL6UvCoW1fB7gmF7Z9k5IJG_p9gIldkw9V84pbk=",
+    "description": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+    "price": "34"
+  },
+  {
+    "id": "0.14032248499816213",
+    "title": "Book 2",
+    "imageUrl": "https://media.istockphoto.com/photos/collection-of-old-books-in-library-picture-id1306307586?b=1&k=20&m=1306307586&s=170667a&w=0&h=tqK1eL6UvCoW1fB7gmF7Z9k5IJG_p9gIldkw9V84pbk=",
+    "description": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+    "price": "45"
+  },
+  {
+    "id": "0.7924692998714082",
+    "title": "Book 3",
+    "imageUrl": "https://1.bp.blogspot.com/-tyXVeYcyqpU/YLN-vLLpanI/AAAAAAAAAV8/-s78nt3PVV4geYUOL5Hm8YyVmW7r2BGBgCLcBGAsYHQ/s0/Byomkesh%2B-%2BDurgo%2BRahasya.jpg",
+    "description": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+    "price": "56"
+  },
+  {
+    "id": "0.7450506388807219",
+    "title": "Book 4",
+    "imageUrl": "https://flyclipart.com/thumbs/logo-black-harry-potter-in-font-1600339.png",
+    "description": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+    "price": "89"
+  }
+]
